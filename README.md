@@ -1,6 +1,6 @@
 # proyectos-python
 
 
-### Calculadora basica 
+### 1 - Calculadora basica 
 
-### Búsqueda binaria
+### 2 -  Búsqueda binaria
