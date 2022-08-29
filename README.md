@@ -2,3 +2,5 @@
 
 
 ### Calculadora basica 
+
+### Búsqueda binaria
